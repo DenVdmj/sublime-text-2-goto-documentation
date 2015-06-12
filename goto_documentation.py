@@ -28,6 +28,7 @@ default_docs = {
         "erlang": "http://erldocs.com/R16B03/?search=%(query)s",
         "haskell": "http://hayoo.fh-wedel.de/?query=%(query)s",
         "scala": "http://scalex.org/?q=%(query)s",
+        "sqf": "https://community.bistudio.com/wiki/%(query)s",
         "css": "http://devdocs.io/#q=%(scope)s+%(query)s",
         "scss": "http://devdocs.io/#q=%(scope)s+%(query)s",
         "less": "http://devdocs.io/#q=%(scope)s+%(query)s",
